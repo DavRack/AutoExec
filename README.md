@@ -1,5 +1,5 @@
 Nombre|Objetivo|Duración/Frecuencia|Cómo/Dónde|Problemas
-|||
+|---|---|---|---|---|
 Presenta solicitud de tramite|R9. Garantizar que la secretaria reciba las solicitudes|Cada que lo considera necesario|En la secretaría|El manejo de documentos es muy manual
 Reclama la carta| |Despues de la reunion|En la secretaría|El manejo de documentos es muy manual
 Recibe documentos|Agilizar la elaboracion de las actas|Después de presentada la solicitud de tramite| |El manejo de documentos es muy manual
